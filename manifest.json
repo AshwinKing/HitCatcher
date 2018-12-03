@@ -1,12 +1,12 @@
 {
   "manifest_version": 2,
 
-  "name": "MTurk Suite",
+  "name": "HITCATCHER",
 
-  "version": "2.4.5",
+  "version": "1.0.0",
 
   "description":
-    "Enchances Mechanical Turk to increase your efficiency and earnings.",
+    "Hit Catcher for MT.",
 
   "icons": {
     "16": "media/icon_16.png",
@@ -65,7 +65,7 @@
     "https://www.amazon.com/ap/signin?*openid.return_to=https://worker.mturk.com/projects/*/tasks/accept_random*"
   ],
 
-  "short_name": "MTS",
+  "short_name": "HT",
 
   "externally_connectable": {
     "matches": [
